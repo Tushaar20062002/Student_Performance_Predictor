@@ -3,7 +3,7 @@
 > A smart ML-powered web app that predicts whether a student will **pass or fail** based on real-world academic behavior and gives **personalized improvement suggestions**.
 
 ![App Screenshot](https://img.shields.io/badge/Streamlit-Deployed-green?style=flat-square)  
-📍 **Live Demo**: [Click to Try the App](https://student-performance-predictor.streamlit.app)  
+📍 **Live Demo**: [Click to Try the App](https://student-performance-predictor-online.streamlit.app)  
 📁 **Dataset**: `student_data.csv` (Synthetic, 500 entries)  
 🧠 **Tech Stack**: Python, Streamlit, Scikit-learn, Matplotlib
 
